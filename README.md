@@ -1,4 +1,5 @@
 # Цветочный классификатор [RU]
+#
 ## Описание проекта
 Этот проект представляет собой реализацию нейронной сети для классификации изображений цветов с использованием библиотеки PyTorch. Проект включает в себя несколько этапов: подготовку данных, создание нейронной сети, обучение модели и оценку ее производительности.
 
@@ -53,7 +54,9 @@ tqdm (для отображения прогресса обучения)
 #
 #
 #
+
 # FlowerClassifier [ENG]
+#
 ## Project Description
 This project is an implementation of a neural network for image classification of flowers using the PyTorch library. The project consists of several stages: data preparation, neural network creation, model training, and performance evaluation.
 
